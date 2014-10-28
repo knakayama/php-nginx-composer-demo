@@ -1,0 +1,3 @@
+[submodule "my-chef-cookbooks"]
+	path = my-chef-cookbooks
+	url = https://github.com/knakayama/my-chef-cookbooks.git

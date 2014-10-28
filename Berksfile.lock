@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "ec2-linux": {
+      "locked_version": "0.1.0",
+      "git": "git://github.com/knakayama/my-chef-cookbooks.git",
+      "ref": "d77db8bf810fb903152ebf83360d3186c77318b4",
+      "rel": "site-cookbooks/ec2-linux"
+    },
+    "zabbix-agent": {
+      "locked_version": "0.1.0",
+      "git": "git://github.com/knakayama/my-chef-cookbooks.git",
+      "ref": "d77db8bf810fb903152ebf83360d3186c77318b4",
+      "rel": "site-cookbooks/zabbix-agent"
+    }
+  }
+}

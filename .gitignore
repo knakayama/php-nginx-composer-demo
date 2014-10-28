@@ -1,0 +1,6 @@
+.envrc
+.bundle
+.vagrant
+cookbooks
+vendor
+
